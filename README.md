@@ -16,6 +16,7 @@ Ayurbot is a Python-based chatbot built using NLP and machine learning technique
 ## 🛠️ Tech Stack
 
 - Python
+- JSON
 - NLTK (Natural Language Toolkit)
 - NumPy
 - scikit-learn
